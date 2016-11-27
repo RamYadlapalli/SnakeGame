@@ -1,0 +1,21 @@
+{
+  "name": "SnakeGame",
+  "homepage": "https://github.com/RamYadlapalli/SnakeGame",
+  "description": "Snake Game using Angular JS",
+  "main": "index.html",
+  "authors": [
+    "Rambabu Yadlapalli"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
